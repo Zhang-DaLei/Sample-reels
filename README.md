@@ -6,3 +6,7 @@
 代码使用
 ====
 直接打开index.html即可浏览
+
+项目截图
+====
+![image](https://github.com/Zhang-DaLei/Sample-reels/blob/master/Sample-reels/img/Sample-pic.png)
